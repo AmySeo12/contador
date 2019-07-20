@@ -1,6 +1,6 @@
 function makeTimer() {
 
-			var endTime = new Date("21 June 2019 00:32:00");			
+			var endTime = new Date("09 August 2019 18:58:00");			
 			endTime = (Date.parse(endTime) / 1000);
 
 			var now = new Date();
